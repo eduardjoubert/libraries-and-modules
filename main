@@ -1,0 +1,10 @@
+from diceroller import start1
+from diceroller import roll_dice
+from diceroller import roller_history
+
+def main():
+    start1.start()
+    roll_code.d_roller()
+    roller_history.history()
+    
+main()
